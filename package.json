@@ -2,8 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "Backend Start Learning",
-  "type":"module",
-  
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
@@ -15,6 +14,7 @@
   "author": "Manish kumar",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.3"
   }
 }
